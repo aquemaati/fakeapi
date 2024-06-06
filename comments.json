@@ -1,4 +1,5 @@
-[
+{
+    "comments": [
     {
         "PostId": 1,
         "CommentId": 1,
@@ -90,3 +91,4 @@
         "NumberOfDislikes": 1
     }
 ]
+}
