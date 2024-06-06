@@ -1,0 +1,82 @@
+[
+    {
+        "UserNickName": "HackerJoe",
+        "UserFirstName": "Joe",
+        "UserLastName": "Doe",
+        "UserAge": 28,
+        "UserGender": "Male",
+        "Email": "hackerjoe@example.com"
+    },
+    {
+        "UserNickName": "CyberNinja",
+        "UserFirstName": "Nina",
+        "UserLastName": "Smith",
+        "UserAge": 32,
+        "UserGender": "Female",
+        "Email": "cyberninja@example.com"
+    },
+    {
+        "UserNickName": "WhiteHat123",
+        "UserFirstName": "John",
+        "UserLastName": "White",
+        "UserAge": 25,
+        "UserGender": "Male",
+        "Email": "whitehat123@example.com"
+    },
+    {
+        "UserNickName": "BlackHatMike",
+        "UserFirstName": "Mike",
+        "UserLastName": "Black",
+        "UserAge": 30,
+        "UserGender": "Male",
+        "Email": "blackhatmike@example.com"
+    },
+    {
+        "UserNickName": "AnonUser",
+        "UserFirstName": "Anonymous",
+        "UserLastName": "User",
+        "UserAge": 27,
+        "UserGender": "Non-Binary",
+        "Email": "anonuser@example.com"
+    },
+    {
+        "UserNickName": "NetSpy",
+        "UserFirstName": "Nancy",
+        "UserLastName": "Spencer",
+        "UserAge": 29,
+        "UserGender": "Female",
+        "Email": "netspy@example.com"
+    },
+    {
+        "UserNickName": "CryptoKing",
+        "UserFirstName": "Chris",
+        "UserLastName": "King",
+        "UserAge": 31,
+        "UserGender": "Male",
+        "Email": "cryptoking@example.com"
+    },
+    {
+        "UserNickName": "ZeroDay",
+        "UserFirstName": "Zara",
+        "UserLastName": "Day",
+        "UserAge": 26,
+        "UserGender": "Female",
+        "Email": "zeroday@example.com"
+    },
+    {
+        "UserNickName": "ExploitMaster",
+        "UserFirstName": "Ethan",
+        "UserLastName": "Masters",
+        "UserAge": 35,
+        "UserGender": "Male",
+        "Email": "exploitmaster@example.com"
+    },
+    {
+        "UserNickName": "SecureGuy",
+        "UserFirstName": "Samuel",
+        "UserLastName": "Secure",
+        "UserAge": 40,
+        "UserGender": "Male",
+        "Email": "secureguy@example.com"
+    }
+]
