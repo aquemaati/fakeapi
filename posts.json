@@ -1,4 +1,5 @@
-[
+{
+    "posts":[
     {
         "PostId": 1,
         "NickName": "HackerJoe",
@@ -100,3 +101,4 @@
         "Category": "Security Best Practices"
     }
 ]
+}
