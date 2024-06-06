@@ -1,0 +1,92 @@
+[
+    {
+        "PostId": 1,
+        "CommentId": 1,
+        "Name": "WhiteHat123",
+        "Date": "2024-06-01",
+        "Content": "Great post! Very informative.",
+        "NumberOfLikes": 50,
+        "NumberOfDislikes": 0
+    },
+    {
+        "PostId": 2,
+        "CommentId": 2,
+        "Name": "BlackHatMike",
+        "Date": "2024-06-02",
+        "Content": "Thanks for the list, very useful!",
+        "NumberOfLikes": 75,
+        "NumberOfDislikes": 2
+    },
+    {
+        "PostId": 3,
+        "CommentId": 3,
+        "Name": "HackerJoe",
+        "Date": "2024-06-03",
+        "Content": "This is a must-read for anyone new to network security.",
+        "NumberOfLikes": 60,
+        "NumberOfDislikes": 1
+    },
+    {
+        "PostId": 4,
+        "CommentId": 4,
+        "Name": "CyberNinja",
+        "Date": "2024-06-04",
+        "Content": "Very insightful post on social engineering.",
+        "NumberOfLikes": 45,
+        "NumberOfDislikes": 3
+    },
+    {
+        "PostId": 5,
+        "CommentId": 5,
+        "Name": "AnonUser",
+        "Date": "2024-06-05",
+        "Content": "Ethical hacking is crucial for security.",
+        "NumberOfLikes": 85,
+        "NumberOfDislikes": 0
+    },
+    {
+        "PostId": 6,
+        "CommentId": 6,
+        "Name": "NetSpy",
+        "Date": "2024-06-06",
+        "Content": "Wireless security is often overlooked.",
+        "NumberOfLikes": 70,
+        "NumberOfDislikes": 2
+    },
+    {
+        "PostId": 7,
+        "CommentId": 7,
+        "Name": "CryptoKing",
+        "Date": "2024-06-07",
+        "Content": "Cryptography is fascinating!",
+        "NumberOfLikes": 55,
+        "NumberOfDislikes": 1
+    },
+    {
+        "PostId": 8,
+        "CommentId": 8,
+        "Name": "ZeroDay",
+        "Date": "2024-06-08",
+        "Content": "Zero-day vulnerabilities are scary but exciting to study.",
+        "NumberOfLikes": 80,
+        "NumberOfDislikes": 4
+    },
+    {
+        "PostId": 9,
+        "CommentId": 9,
+        "Name": "ExploitMaster",
+        "Date": "2024-06-09",
+        "Content": "Buffer overflows can be devastating if not handled properly.",
+        "NumberOfLikes": 40,
+        "NumberOfDislikes": 3
+    },
+    {
+        "PostId": 10,
+        "CommentId": 10,
+        "Name": "SecureGuy",
+        "Date": "2024-06-10",
+        "Content": "Security practices are evolving every day.",
+        "NumberOfLikes": 65,
+        "NumberOfDislikes": 1
+    }
+]
